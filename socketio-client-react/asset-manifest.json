@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/socketio-client-react/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/socketio-client-react/static/js/main.4534c9fd.chunk.js",
-    "main.js.map": "/socketio-client-react/static/js/main.4534c9fd.chunk.js.map",
-    "runtime-main.js": "/socketio-client-react/static/js/runtime-main.1a85e036.js",
-    "runtime-main.js.map": "/socketio-client-react/static/js/runtime-main.1a85e036.js.map",
-    "static/css/2.dbb450e1.chunk.css": "/socketio-client-react/static/css/2.dbb450e1.chunk.css",
-    "static/js/2.559f34e3.chunk.js": "/socketio-client-react/static/js/2.559f34e3.chunk.js",
-    "static/js/2.559f34e3.chunk.js.map": "/socketio-client-react/static/js/2.559f34e3.chunk.js.map",
-    "static/js/3.2c9f5b61.chunk.js": "/socketio-client-react/static/js/3.2c9f5b61.chunk.js",
-    "static/js/3.2c9f5b61.chunk.js.map": "/socketio-client-react/static/js/3.2c9f5b61.chunk.js.map",
+    "main.css": "/socketio-client-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/socketio-client-react/static/js/main.ea6c5100.chunk.js",
+    "main.js.map": "/socketio-client-react/static/js/main.ea6c5100.chunk.js.map",
+    "runtime-main.js": "/socketio-client-react/static/js/runtime-main.a4c2894e.js",
+    "runtime-main.js.map": "/socketio-client-react/static/js/runtime-main.a4c2894e.js.map",
+    "static/css/2.ba8a8a05.chunk.css": "/socketio-client-react/static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.0947387e.chunk.js": "/socketio-client-react/static/js/2.0947387e.chunk.js",
+    "static/js/2.0947387e.chunk.js.map": "/socketio-client-react/static/js/2.0947387e.chunk.js.map",
+    "static/js/3.08f1b29a.chunk.js": "/socketio-client-react/static/js/3.08f1b29a.chunk.js",
+    "static/js/3.08f1b29a.chunk.js.map": "/socketio-client-react/static/js/3.08f1b29a.chunk.js.map",
     "index.html": "/socketio-client-react/index.html",
-    "static/css/2.dbb450e1.chunk.css.map": "/socketio-client-react/static/css/2.dbb450e1.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/socketio-client-react/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.559f34e3.chunk.js.LICENSE.txt": "/socketio-client-react/static/js/2.559f34e3.chunk.js.LICENSE.txt"
+    "static/css/2.ba8a8a05.chunk.css.map": "/socketio-client-react/static/css/2.ba8a8a05.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/socketio-client-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0947387e.chunk.js.LICENSE.txt": "/socketio-client-react/static/js/2.0947387e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a85e036.js",
-    "static/css/2.dbb450e1.chunk.css",
-    "static/js/2.559f34e3.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4534c9fd.chunk.js"
+    "static/js/runtime-main.a4c2894e.js",
+    "static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.0947387e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ea6c5100.chunk.js"
   ]
 }
